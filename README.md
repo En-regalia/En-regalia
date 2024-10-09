@@ -7,7 +7,7 @@ A seasoned logistics virtuoso embarking on an exciting journey into the realm of
 - Introduction to Programming Using Python with Codefinity
 - Crash Course on Python with Google
 
-🌱 I’m currently learning docker and wider cloud computing concepts
+🌱 I’m currently learning back end server web app hosting before learning a framework like react.
 
 😄 Pronouns: He/Him
 
